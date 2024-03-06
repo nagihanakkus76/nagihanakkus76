@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagihanakkus76&show_icons=true&locale=en&layout=compact" alt="nagihanakkus76" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagihanakkus76&show_icons=true&locale=en" alt="nagihanakkus76" /></p>
+
+![snake gif](https://github.com/nagihanakkus76/nagihanakkus76/blob/output/github-contribution-grid-snake.gif)
